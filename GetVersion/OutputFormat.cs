@@ -1,4 +1,4 @@
-﻿namespace GetVersion
+﻿namespace GetAssemblyVersion
 {
     /// <summary>
     /// Output Format

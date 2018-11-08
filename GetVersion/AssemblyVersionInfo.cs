@@ -5,7 +5,7 @@ using System.Text;
 // ReSharper disable MemberCanBePrivate.Global
 // ReSharper disable UnusedMember.Global
 
-namespace GetVersion
+namespace GetAssemblyVersion
 {
     /// <summary>
     /// Version information for an Assembly

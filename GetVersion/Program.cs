@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading;
 
-namespace GetVersion
+namespace GetAssemblyVersion
 {
     /// <summary>
     /// Command-Line Program Main Class
