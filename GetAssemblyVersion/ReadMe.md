@@ -1,15 +1,15 @@
-﻿# GetVersion
+﻿# GetAssemblyVersion
 
 Gets versions of assemblies found in specified paths.
 
 ## Usage
-GetVersion [options] [paths]
+GetAssemblyVersion [options] [paths]
 
 ### Examples
 
 *Command-Line:*
 
-GetVersion -r=false c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin -o=TabDelimited 
+GetAssemblyVersion -r=false c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin -o=TabDelimited 
 - Recurse: False
 - Output Format: Tab Delimited
 - Paths: c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin
@@ -66,7 +66,7 @@ c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin\WindowsBase.dll~4.6.1055.0 built by:
 
 *Command-Line:*
 
-GetVersion -r=false c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin
+GetAssemblyVersion -r=false c:\git\monolith-hp\UPMC.Web.WcfRestHttp\bin
 
 *Output:*
 
